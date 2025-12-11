@@ -1,4 +1,4 @@
-name: Build Patient Service (Maven)
+name: Build Patient Service  (Maven)
 
 on:
   push:
